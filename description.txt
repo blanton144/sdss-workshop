@@ -1,0 +1,57 @@
+Dear all,
+
+I understand that you all are interested in attending the short
+workshop on using SDSS data on June 3-6. Here is some more information
+about what we are going to do.
+
+This workshop is about understanding and interacting with SDSS data.
+The goal is to give you the tools to read and understand the data,
+allowing you to incorporate those tools into your own programs. By so
+doing, this should give you some background to be able to look at any
+optical/infrared astronomical data set and begin to understand it.  To
+supply this background, we will start by interacting with the data on
+a file-by-file basis so you understand its inherent nature, and will
+then move on to using more advanced and abstracted tools on the last
+day.
+
+We will necessarily cover some basic information on programming and
+astronomy, but this workshop is not about programming. and while we'll
+cover some of the fundamental details of astronomy to make sure we're
+all on the same page (ra, dec, flux, etc) I will assume you understand
+the astronomical science context.
+
+It will run from Monday to Thursday, June 3 to June 6. Each day there
+will be a morning session from 9:30am to 12pm and an afternoon session
+from 1:30pm to 4:30pm.  The mornings will be focused on covering the
+material. The afternoon will be spent on exercises with the data and
+using it.
+
+I expect you to come in with a laptop which is capable of running
+python. It will be easiest if this is a Unix-based system (e.g. a
+Linux box or a Mac, with developer tools installed). You should
+make sure you have the following python products installed:
+ - matplotlib
+ - numpy
+ - scipy
+ - astropy (found at http://astropy.org)
+We'll spend some time on the first day making sure everybody is set
+up, but it will be much better if you work this out ahead of time. 
+
+Monday topics:
+- python basics
+- FITS files 
+- basic astronomy
+
+Tuesday topic:
+- SDSS photometry
+
+Wednesday topic:
+- SDSS spectroscopy
+
+Thursday topic:
+- Special SDSS data tools
+- CASJobs
+- The API 
+
+Many thanks,
+Mike
